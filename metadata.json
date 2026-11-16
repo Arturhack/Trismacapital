@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Trisma Capital",
+  "description": "Strategic trading education, Nasdaq futures mentoring, and Colombian specialty coffee ecosystem.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
